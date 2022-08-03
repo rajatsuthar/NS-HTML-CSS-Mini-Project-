@@ -42,7 +42,7 @@ With parallax scrolling, you put your visitors in charge. By doing so, they take
 
 <ul>
   <li><b>index.html</b> - Where all of the html code is placed.</li>
-  <li><b><styles.css</b> - Where all of the css properties are written.</li>
-  <li><b><img</b> - all used images are placed in this file.</li>
+  <li><b>styles.css</b> - Where all of the css properties are written.</li>
+  <li><b>img</b> - all used images are placed in this file.</li>
   
 </ul>
