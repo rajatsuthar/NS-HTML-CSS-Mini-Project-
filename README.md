@@ -1,7 +1,7 @@
 # NS-HTML-CSS-Mini-Project-
 
 
-Check out the **[demo](http://link)** to see it in action!
+Check out the **[demo](https://62ea4dbc73cb6c1285248e12--astonishing-liger-39265e.netlify.app/)** to see it in action!
 
 <!-- TABLE OF CONTENTS -->
 <h2 id="table-of-contents"> :book: Table of Contents</h2>
