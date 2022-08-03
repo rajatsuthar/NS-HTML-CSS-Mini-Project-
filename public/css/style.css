@@ -26,17 +26,17 @@ body {
 
 
 .pimg1 {
-    background-image: url(new.jpg);
+    background-image: url(../img/new.jpg);
     min-height: 100%;
 }
 
 .pimg2 {
-    background-image: url(blur.jpg);
+    background-image: url(../img/blur.jpg);
     min-height: 130%;
 }
 
 .pimg3 {
-    background-image: url(new1.jpg);
+    background-image: url(../img/new1.jpg);
     min-height: 130%;
 }
 
